@@ -1,0 +1,6 @@
+﻿  Server.cpp
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Server\Server.cpp(45,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Server\Server.cpp(52,10): warning C4101: 'dataBuffer': unreferenced local variable
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Server\Server.cpp(220,17): warning C4018: '<': signed/unsigned mismatch
+Server.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Server.vcxproj -> C:\Users\38163\Desktop\MRKiRM projekat\TCP\Debug\Server.exe

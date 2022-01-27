@@ -1,0 +1,9 @@
+﻿  Client_IPv6.cpp
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Client_IPv6\Client_IPv6.cpp(181,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Client_IPv6\Client_IPv6.cpp(58,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Client_IPv6\Client_IPv6.cpp(55,7): warning C4101: 'startBuffer': unreferenced local variable
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Client_IPv6\Client_IPv6.cpp(95,10): warning C4101: 'dataBuffer': unreferenced local variable
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Client_IPv6\Client_IPv6.cpp(48,6): warning C4101: 'irez': unreferenced local variable
+C:\Users\38163\Desktop\MRKiRM projekat\TCP\Client_IPv6\Client_IPv6.cpp(143,7): warning C4101: 'buff': unreferenced local variable
+Client_IPv6.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Client_IPv6.vcxproj -> C:\Users\38163\Desktop\MRKiRM projekat\TCP\Debug\Client_IPv6.exe
